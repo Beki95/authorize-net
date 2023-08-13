@@ -12,7 +12,7 @@ here = path.abspath(path.dirname(__file__))
 
 
 setup(
-    name='authorizenet',
+    name='authorizenet_n1',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
@@ -22,11 +22,11 @@ setup(
     description='Authorize.Net Python SDK',
 
     # The project's main homepage.
-    url='https://github.com/AuthorizeNet/sdk-python',
+    url='https://github.com/Beki95/authorize-net.git',
 
     # Author details
-    author='Authorize.Net Developer',
-    author_email='developer@authorize.net',
+    author='Authorize.Net Developer 1',
+    author_email='imanjibeki@gmail.com',
 
     # Choose your license
     license='proprietary',
